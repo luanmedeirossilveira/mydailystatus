@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="250" height="154" alt="Design by DevPleno" src="https://github.com/luanmedeirossilveira/mydailystatus/blob/master/public/logo.png">
+  <img width="350" height="154" alt="Design by DevPleno" src="https://github.com/luanmedeirossilveira/mydailystatus/blob/master/public/logo.png">
 </p>
 
 # 🔭 Projeto 
